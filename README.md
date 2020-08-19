@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Jibin Reji and I am a Junior Developer. 🌱 I’m currently learning Phython and will update my profile soon!
 
 <!--
 **jibinsamreji/jibinsamreji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
